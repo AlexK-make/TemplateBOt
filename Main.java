@@ -20,8 +20,8 @@ public class Main
 	 Player shaq = new Player("Shaquille Oneil" 28596, 13099, 3026);
 	 Player tim = new Player("Tim Duncan" 26496, 15091, 4225);
 	 Player hakeem = new Player("Hakeem Olajuwon" 26946, 13748, 3058);
-	 Player oscar = new Player(“Oscar Robinson” 26710, 7804, 9887);
-	 Player kevin = new Player(“Kevin Garnett” 26071, 14662, 5445);
+	 Player oscar = new Player("Oscar Robinson" 26710, 7804, 9887);
+	 Player kevin = new Player("Kevin Garnett" 26071, 14662, 5445);
 	 Player moses = new Player(“Moses Malone” 27409, 1212, 1936);
 	 Player elvin = new Player(“Elvin Hayes” 27313, 16279, 1771);
 	 Player john = new Player(“John Stockton” 19711, 4051, 15806);
